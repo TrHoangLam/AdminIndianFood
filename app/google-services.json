@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "500699157386",
+    "firebase_url": "https://indian-food-61f4c-default-rtdb.firebaseio.com",
+    "project_id": "indian-food-61f4c",
+    "storage_bucket": "indian-food-61f4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500699157386:android:8d81929192bf73ae9aae73",
+        "android_client_info": {
+          "package_name": "com.example.adminindianfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500699157386-87id2sa6ut3v2r0lbcpoo1ka4jqur4vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminindianfood",
+            "certificate_hash": "ebca14c3c3dab7d18b245a758bc4ffbb01e22b67"
+          }
+        },
+        {
+          "client_id": "500699157386-jvfbfltojbctjrl5jn74ka9nsrg478eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQmDOlpcZFNDrYDRZ1hBI_HTdNF0cNC7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500699157386-jvfbfltojbctjrl5jn74ka9nsrg478eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
